@@ -1,0 +1,901 @@
+Title,Price,Rating,Availability,Price_Clean,Rating_Numeric,Price_Category,Title_Length,In_Stock
+A Light in the Attic,£51.77,Three,In stock,51.77,3,Expensive,20,True
+Tipping the Velvet,£53.74,One,In stock,53.74,1,Expensive,18,True
+Soumission,£50.10,One,In stock,50.1,1,Expensive,10,True
+Sharp Objects,£47.82,Four,In stock,47.82,4,Expensive,13,True
+Sapiens: A Brief History of Humankind,£54.23,Five,In stock,54.23,5,Expensive,37,True
+The Requiem Red,£22.65,One,In stock,22.65,1,Expensive,15,True
+The Dirty Little Secrets of Getting Your Dream Job,£33.34,Four,In stock,33.34,4,Expensive,50,True
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",£17.93,Three,In stock,17.93,3,Affordable,87,True
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,£22.60,Four,In stock,22.6,4,Expensive,94,True
+The Black Maria,£52.15,One,In stock,52.15,1,Expensive,15,True
+"Starving Hearts (Triangular Trade Trilogy, #1)",£13.99,Two,In stock,13.99,2,Affordable,46,True
+Shakespeare's Sonnets,£20.66,Four,In stock,20.66,4,Expensive,21,True
+Set Me Free,£17.46,Five,In stock,17.46,5,Affordable,11,True
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),£52.29,Five,In stock,52.29,5,Expensive,55,True
+Rip it Up and Start Again,£35.02,Five,In stock,35.02,5,Expensive,25,True
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",£57.25,Three,In stock,57.25,3,Expensive,82,True
+Olio,£23.88,One,In stock,23.88,1,Expensive,4,True
+Mesaerion: The Best Science Fiction Stories 1800-1849,£37.59,One,In stock,37.59,1,Expensive,53,True
+Libertarianism for Beginners,£51.33,Two,In stock,51.33,2,Expensive,28,True
+It's Only the Himalayas,£45.17,Two,In stock,45.17,2,Expensive,23,True
+In Her Wake,£12.84,One,In stock,12.84,1,Affordable,11,True
+How Music Works,£37.32,Two,In stock,37.32,2,Expensive,15,True
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",£30.52,Three,In stock,30.52,3,Expensive,175,True
+Chase Me (Paris Nights #2),£25.27,Five,In stock,25.27,5,Expensive,26,True
+Black Dust,£34.53,Five,In stock,34.53,5,Expensive,10,True
+Birdsong: A Story in Pictures,£54.64,Three,In stock,54.64,3,Expensive,29,True
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,£22.50,Three,In stock,22.5,3,Expensive,107,True
+Aladdin and His Wonderful Lamp,£53.13,Three,In stock,53.13,3,Expensive,30,True
+Worlds Elsewhere: Journeys Around Shakespeare’s Globe,£40.30,Five,In stock,40.3,5,Expensive,53,True
+Wall and Piece,£44.18,Four,In stock,44.18,4,Expensive,14,True
+The Four Agreements: A Practical Guide to Personal Freedom,£17.66,Five,In stock,17.66,5,Affordable,58,True
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,£31.05,Three,In stock,31.05,3,Expensive,73,True
+The Elephant Tree,£23.82,Five,In stock,23.82,5,Expensive,17,True
+The Bear and the Piano,£36.89,One,In stock,36.89,1,Expensive,22,True
+Sophie's World,£15.94,Five,In stock,15.94,5,Affordable,14,True
+Penny Maybe,£33.29,Three,In stock,33.29,3,Expensive,11,True
+Maude (1883-1993):She Grew Up with the country,£18.02,Two,In stock,18.02,2,Affordable,46,True
+"In a Dark, Dark Wood",£19.63,One,In stock,19.63,1,Affordable,20,True
+Behind Closed Doors,£52.22,Four,In stock,52.22,4,Expensive,19,True
+You can't bury them all: Poems,£33.63,Two,In stock,33.63,2,Expensive,30,True
+Slow States of Collapse: Poems,£57.31,Three,In stock,57.31,3,Expensive,30,True
+Reasons to Stay Alive,£26.41,Two,In stock,26.41,2,Expensive,21,True
+Private Paris (Private #10),£47.61,Five,In stock,47.61,5,Expensive,27,True
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,£23.11,Five,In stock,23.11,5,Expensive,66,True
+Without Borders (Wanderlove #1),£45.07,Two,In stock,45.07,2,Expensive,31,True
+When We Collided,£31.77,One,In stock,31.77,1,Expensive,16,True
+"We Love You, Charlie Freeman",£50.27,Five,In stock,50.27,5,Expensive,28,True
+Untitled Collection: Sabbath Poems 2014,£14.27,Four,In stock,14.27,4,Affordable,39,True
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",£44.18,Four,In stock,44.18,4,Expensive,105,True
+Unicorn Tracks,£18.78,Three,In stock,18.78,3,Affordable,14,True
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",£25.52,One,In stock,25.52,1,Expensive,102,True
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),£16.28,One,In stock,16.28,1,Affordable,55,True
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,£31.12,Three,In stock,31.12,3,Expensive,75,True
+This One Summer,£19.49,Four,In stock,19.49,4,Affordable,15,True
+Thirst,£17.27,Five,In stock,17.27,5,Affordable,6,True
+The Torch Is Passed: A Harding Family Story,£19.09,One,In stock,19.09,1,Affordable,43,True
+The Secret of Dreadwillow Carse,£56.13,One,In stock,56.13,1,Expensive,31,True
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",£56.41,One,In stock,56.41,1,Expensive,127,True
+The Past Never Ends,£56.50,Four,In stock,56.5,4,Expensive,19,True
+The Natural History of Us (The Fine Art of Pretending #2),£45.22,Three,In stock,45.22,3,Expensive,57,True
+The Nameless City (The Nameless City #1),£38.16,Four,In stock,38.16,4,Expensive,40,True
+The Murder That Never Was (Forensic Instincts #5),£54.11,Three,In stock,54.11,3,Expensive,49,True
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,£42.96,Four,In stock,42.96,4,Expensive,57,True
+"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",£23.89,Four,In stock,23.89,4,Expensive,150,True
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,£16.77,Three,In stock,16.77,3,Affordable,86,True
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",£20.59,Five,In stock,20.59,5,Expensive,82,True
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,£37.13,One,In stock,37.13,1,Expensive,57,True
+The Electric Pencil: Drawings from Inside State Hospital No. 3,£56.06,One,In stock,56.06,1,Expensive,62,True
+The Death of Humanity: and the Case for Life,£58.11,Four,In stock,58.11,4,Expensive,44,True
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",£49.05,Three,In stock,49.05,3,Expensive,91,True
+The Art Forger,£40.76,Three,In stock,40.76,3,Expensive,14,True
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,£19.73,One,In stock,19.73,1,Affordable,75,True
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,£32.24,Five,In stock,32.24,5,Expensive,67,True
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,£41.83,Four,In stock,41.83,4,Expensive,78,True
+Soul Reader,£39.58,Two,In stock,39.58,2,Expensive,11,True
+Security,£39.25,Two,In stock,39.25,2,Expensive,8,True
+"Saga, Volume 6 (Saga (Collected Editions) #6)",£25.02,Three,In stock,25.02,3,Expensive,45,True
+"Saga, Volume 5 (Saga (Collected Editions) #5)",£51.04,Two,In stock,51.04,2,Expensive,45,True
+Reskilling America: Learning to Labor in the Twenty-First Century,£19.83,Two,In stock,19.83,2,Affordable,65,True
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",£50.40,Three,In stock,50.4,3,Expensive,67,True
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",£13.61,Five,In stock,13.61,5,Affordable,81,True
+Princess Between Worlds (Wide-Awake Princess #5),£13.34,Five,In stock,13.34,5,Affordable,48,True
+"Pop Gun War, Volume 1: Gift",£18.97,One,In stock,18.97,1,Affordable,27,True
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",£36.28,Two,In stock,36.28,2,Expensive,163,True
+Patience,£10.16,Three,In stock,10.16,3,Affordable,8,True
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",£15.44,Four,In stock,15.44,4,Affordable,54,True
+orange: The Complete Collection 1 (orange: The Complete Collection #1),£48.41,One,In stock,48.41,1,Expensive,70,True
+Online Marketing for Busy Authors: A Step-By-Step Guide,£46.35,One,In stock,46.35,1,Expensive,55,True
+On a Midnight Clear,£14.07,Three,In stock,14.07,3,Affordable,19,True
+Obsidian (Lux #1),£14.86,Two,In stock,14.86,2,Affordable,17,True
+My Paris Kitchen: Recipes and Stories,£33.37,Two,In stock,33.37,2,Expensive,37,True
+Masks and Shadows,£56.40,Two,In stock,56.4,2,Expensive,17,True
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",£14.02,Four,In stock,14.02,4,Affordable,83,True
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",£46.91,Two,In stock,46.91,2,Expensive,61,True
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",£45.61,Three,In stock,45.61,3,Expensive,62,True
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),£19.92,Two,In stock,19.92,2,Affordable,55,True
+"Layered: Baking, Building, and Styling Spectacular Cakes",£40.11,One,In stock,40.11,1,Expensive,56,True
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),£53.90,Two,In stock,53.9,2,Expensive,69,True
+Join,£35.67,Five,In stock,35.67,5,Expensive,4,True
+In the Country We Love: My Family Divided,£22.00,Four,In stock,22.0,4,Expensive,41,True
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,£57.36,Five,In stock,57.36,5,Expensive,68,True
+"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",£29.17,Two,In stock,29.17,2,Expensive,81,True
+I am a Hero Omnibus Volume 1,£54.63,Three,In stock,54.63,3,Expensive,28,True
+How to Be Miserable: 40 Strategies You Already Use,£46.03,One,In stock,46.03,1,Expensive,50,True
+Her Backup Boyfriend (The Sorensen Family #1),£33.97,One,In stock,33.97,1,Expensive,45,True
+"Giant Days, Vol. 2 (Giant Days #5-8)",£22.11,Two,In stock,22.11,2,Expensive,36,True
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,£29.69,Three,In stock,29.69,3,Expensive,73,True
+First and First (Five Boroughs #3),£15.97,Four,In stock,15.97,4,Affordable,34,True
+Fifty Shades Darker (Fifty Shades #2),£21.96,One,In stock,21.96,1,Expensive,37,True
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,£54.35,Two,In stock,54.35,2,Expensive,77,True
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",£37.97,Two,In stock,37.97,2,Expensive,83,True
+Danganronpa Volume 1,£51.99,Four,In stock,51.99,4,Expensive,20,True
+Crown of Midnight (Throne of Glass #2),£43.29,Three,In stock,43.29,3,Expensive,38,True
+"Codename Baboushka, Volume 1: The Conclave of Death",£36.72,Four,In stock,36.72,4,Expensive,51,True
+Camp Midnight,£17.08,Four,In stock,17.08,4,Affordable,13,True
+Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,£29.14,Five,In stock,29.14,5,Expensive,66,True
+Burning,£28.81,Three,In stock,28.81,3,Expensive,7,True
+Bossypants,£49.46,Two,In stock,49.46,2,Expensive,10,True
+"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",£37.92,Two,In stock,37.92,2,Expensive,79,True
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",£28.09,Two,In stock,28.09,2,Expensive,74,True
+Algorithms to Live By: The Computer Science of Human Decisions,£30.81,One,In stock,30.81,1,Expensive,62,True
+A World of Flavor: Your Gluten Free Passport,£42.95,One,In stock,42.95,1,Expensive,44,True
+"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",£56.76,Five,In stock,56.76,5,Expensive,61,True
+A Murder in Time,£16.64,One,In stock,16.64,1,Affordable,16,True
+A Flight of Arrows (The Pathfinders #2),£55.53,Five,In stock,55.53,5,Expensive,39,True
+A Fierce and Subtle Poison,£28.13,Four,In stock,28.13,4,Expensive,26,True
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),£52.37,One,In stock,52.37,1,Expensive,60,True
+(Un)Qualified: How God Uses Broken People to Do Big Things,£54.00,Five,In stock,54.0,5,Expensive,58,True
+You Are What You Love: The Spiritual Power of Habit,£21.87,Four,In stock,21.87,4,Expensive,51,True
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",£43.30,Four,In stock,43.3,4,Expensive,88,True
+Tuesday Nights in 1980,£21.04,Two,In stock,21.04,2,Expensive,22,True
+Tracing Numbers on a Train,£41.60,Three,In stock,41.6,3,Expensive,26,True
+Throne of Glass (Throne of Glass #1),£35.07,Three,In stock,35.07,3,Expensive,36,True
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,£59.64,One,In stock,59.64,1,Expensive,89,True
+Thirteen Reasons Why,£52.72,One,In stock,52.72,1,Expensive,20,True
+The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,£58.08,Four,In stock,58.08,4,Expensive,64,True
+The Wedding Dress,£24.12,One,In stock,24.12,1,Expensive,17,True
+The Vacationers,£42.15,Four,In stock,42.15,4,Expensive,15,True
+The Third Wave: An Entrepreneur’s Vision of the Future,£12.61,Five,In stock,12.61,5,Affordable,54,True
+The Stranger,£17.44,Four,In stock,17.44,4,Affordable,12,True
+The Shadow Hero (The Shadow Hero),£33.14,One,In stock,33.14,1,Expensive,33,True
+The Secret (The Secret #1),£27.37,Four,In stock,27.37,4,Expensive,26,True
+The Regional Office Is Under Attack!,£51.36,Five,In stock,51.36,5,Expensive,36,True
+The Psychopath Test: A Journey Through the Madness Industry,£36.00,Two,In stock,36.0,2,Expensive,59,True
+The Project,£10.65,One,In stock,10.65,1,Affordable,11,True
+The Power of Now: A Guide to Spiritual Enlightenment,£43.54,Two,In stock,43.54,2,Expensive,52,True
+The Omnivore's Dilemma: A Natural History of Four Meals,£38.21,Two,In stock,38.21,2,Expensive,55,True
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,£37.34,Five,In stock,37.34,5,Expensive,66,True
+The Murder of Roger Ackroyd (Hercule Poirot #4),£44.10,Four,In stock,44.1,4,Expensive,47,True
+The Mistake (Off-Campus #2),£43.29,Three,In stock,43.29,3,Expensive,27,True
+The Matchmaker's Playbook (Wingmen Inc. #1),£55.85,One,In stock,55.85,1,Expensive,43,True
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,£37.60,Two,In stock,37.6,2,Expensive,83,True
+The Long Shadow of Small Ghosts: Murder and Memory in an American City,£10.97,One,In stock,10.97,1,Affordable,70,True
+The Kite Runner,£41.82,Four,In stock,41.82,4,Expensive,15,True
+The House by the Lake,£36.95,One,In stock,36.95,1,Expensive,21,True
+The Glittering Court (The Glittering Court #1),£44.28,One,In stock,44.28,1,Expensive,46,True
+The Girl on the Train,£55.02,Two,In stock,55.02,2,Expensive,21,True
+The Genius of Birds,£17.24,One,In stock,17.24,1,Affordable,19,True
+The Emerald Mystery,£23.15,Two,In stock,23.15,2,Expensive,19,True
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,£41.25,One,In stock,41.25,1,Expensive,98,True
+The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,£32.00,Three,In stock,32.0,3,Expensive,96,True
+The Artist's Way: A Spiritual Path to Higher Creativity,£38.49,Five,In stock,38.49,5,Expensive,55,True
+The Art of War,£33.34,Five,In stock,33.34,5,Expensive,14,True
+The Argonauts,£10.93,Two,In stock,10.93,2,Affordable,13,True
+The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,£27.55,Three,In stock,27.55,3,Expensive,75,True
+Suddenly in Love (Lake Haven #1),£55.99,Two,In stock,55.99,2,Expensive,32,True
+Something More Than This,£16.24,Four,In stock,16.24,4,Affordable,24,True
+Soft Apocalypse,£26.12,Two,In stock,26.12,2,Expensive,15,True
+So You've Been Publicly Shamed,£12.23,Two,In stock,12.23,2,Affordable,30,True
+Shoe Dog: A Memoir by the Creator of NIKE,£23.99,Two,In stock,23.99,2,Expensive,41,True
+"Shobu Samurai, Project Aryoku (#3)",£29.06,Three,In stock,29.06,3,Expensive,34,True
+Secrets and Lace (Fatal Hearts #1),£20.27,One,In stock,20.27,1,Expensive,34,True
+Scarlett Epstein Hates It Here,£43.55,Five,In stock,43.55,5,Expensive,30,True
+Romero and Juliet: A Tragic Tale of Love and Zombies,£36.94,One,In stock,36.94,1,Expensive,52,True
+Redeeming Love,£20.47,Five,In stock,20.47,5,Expensive,14,True
+Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,£41.06,One,In stock,41.06,1,Expensive,116,True
+Poems That Make Grown Women Cry,£14.19,Four,In stock,14.19,4,Affordable,31,True
+"Nightingale, Sing",£38.28,One,In stock,38.28,1,Expensive,17,True
+Night Sky with Exit Wounds,£41.05,One,In stock,41.05,1,Expensive,26,True
+Mrs. Houdini,£30.25,Five,In stock,30.25,5,Expensive,12,True
+Modern Romance,£28.26,Five,In stock,28.26,5,Expensive,14,True
+Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),£10.76,One,In stock,10.76,1,Affordable,83,True
+Louisa: The Extraordinary Life of Mrs. Adams,£16.85,Two,In stock,16.85,2,Affordable,44,True
+Little Red,£13.47,Three,In stock,13.47,3,Affordable,10,True
+Library of Souls (Miss Peregrine’s Peculiar Children #3),£48.56,Five,In stock,48.56,5,Expensive,56,True
+Large Print Heart of the Pride,£19.15,Two,In stock,19.15,2,Affordable,30,True
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,£57.36,Four,In stock,57.36,4,Expensive,70,True
+Hollow City (Miss Peregrine’s Peculiar Children #2),£42.98,One,In stock,42.98,1,Expensive,51,True
+Grumbles,£22.16,Two,In stock,22.16,2,Expensive,8,True
+Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,£49.43,Four,In stock,49.43,4,Expensive,64,True
+Frostbite (Vampire Academy #2),£29.99,Five,In stock,29.99,5,Expensive,30,True
+Follow You Home,£21.36,One,In stock,21.36,1,Expensive,15,True
+First Steps for New Christians (Print Edition),£29.00,One,In stock,29.0,1,Expensive,46,True
+Finders Keepers (Bill Hodges Trilogy #2),£53.53,Five,In stock,53.53,5,Expensive,40,True
+"Fables, Vol. 1: Legends in Exile (Fables #1)",£41.62,Four,In stock,41.62,4,Expensive,44,True
+Eureka Trivia 6.0,£54.59,Four,In stock,54.59,4,Expensive,17,True
+Drive: The Surprising Truth About What Motivates Us,£34.95,Four,In stock,34.95,4,Expensive,51,True
+Done Rubbed Out (Reightman & Bailey #1),£37.72,Five,In stock,37.72,5,Expensive,39,True
+Doing It Over (Most Likely To #1),£35.61,Three,In stock,35.61,3,Expensive,33,True
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",£42.16,Three,In stock,42.16,3,Expensive,107,True
+Dark Notes,£19.19,Five,In stock,19.19,5,Affordable,10,True
+"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",£19.43,Three,In stock,19.43,3,Affordable,99,True
+Close to You,£49.46,Four,In stock,49.46,4,Expensive,12,True
+Chasing Heaven: What Dying Taught Me About Living,£37.80,Two,In stock,37.8,2,Expensive,49,True
+Big Magic: Creative Living Beyond Fear,£30.80,Three,In stock,30.8,3,Expensive,38,True
+Becoming Wise: An Inquiry into the Mystery and Art of Living,£27.43,Two,In stock,27.43,2,Expensive,60,True
+Beauty Restored (Riley Family Legacy Novellas #3),£11.11,Two,In stock,11.11,2,Affordable,49,True
+Batman: The Long Halloween (Batman),£36.50,Two,In stock,36.5,2,Expensive,35,True
+Batman: The Dark Knight Returns (Batman),£15.38,Five,In stock,15.38,5,Affordable,40,True
+Ayumi's Violin,£15.48,Two,In stock,15.48,2,Affordable,14,True
+Anonymous,£46.82,Four,In stock,46.82,4,Expensive,9,True
+Amy Meets the Saints and Sages,£18.46,Three,In stock,18.46,3,Affordable,30,True
+Amid the Chaos,£36.58,One,In stock,36.58,1,Expensive,14,True
+Amatus,£50.54,Five,In stock,50.54,5,Expensive,6,True
+Agnostic: A Spirited Manifesto,£12.51,Five,In stock,12.51,5,Affordable,30,True
+Zealot: The Life and Times of Jesus of Nazareth,£24.70,Three,In stock,24.7,3,Expensive,47,True
+You (You #1),£43.61,Five,In stock,43.61,5,Expensive,12,True
+"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",£37.34,Four,In stock,37.34,4,Expensive,64,True
+Wild Swans,£14.36,Two,In stock,14.36,2,Affordable,10,True
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,£52.65,Four,In stock,52.65,4,Expensive,82,True
+Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,£38.20,Four,In stock,38.2,4,Expensive,102,True
+What's It Like in Space?: Stories from Astronauts Who've Been There,£19.60,Two,In stock,19.6,2,Affordable,67,True
+"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",£53.90,One,In stock,53.9,1,Expensive,62,True
+Walt Disney's Alice in Wonderland,£12.96,Five,In stock,12.96,5,Affordable,33,True
+V for Vendetta (V for Vendetta Complete),£37.10,Four,In stock,37.1,4,Expensive,40,True
+Until Friday Night (The Field Party #1),£46.31,Two,In stock,46.31,2,Expensive,39,True
+"Unbroken: A World War II Story of Survival, Resilience, and Redemption",£45.95,Two,In stock,45.95,2,Expensive,70,True
+Twenty Yawns,£22.08,Two,In stock,22.08,2,Expensive,12,True
+Through the Woods,£25.38,Two,In stock,25.38,2,Expensive,17,True
+This Is Where It Ends,£27.12,Two,In stock,27.12,2,Expensive,21,True
+The Year of Magical Thinking,£43.04,Two,In stock,43.04,2,Expensive,28,True
+The Wright Brothers,£56.80,Four,In stock,56.8,4,Expensive,19,True
+The White Queen (The Cousins' War #1),£25.91,Five,In stock,25.91,5,Expensive,37,True
+The Wedding Pact (The O'Malleys #2),£32.61,Three,In stock,32.61,3,Expensive,35,True
+The Time Keeper,£27.88,Five,In stock,27.88,5,Expensive,15,True
+The Testament of Mary,£52.67,Four,In stock,52.67,4,Expensive,21,True
+The Star-Touched Queen,£46.02,Five,In stock,46.02,5,Expensive,22,True
+The Songs of the Gods,£44.48,Five,In stock,44.48,5,Expensive,21,True
+The Song of Achilles,£37.40,Five,In stock,37.4,5,Expensive,20,True
+The Rosie Project (Don Tillman #1),£54.04,One,In stock,54.04,1,Expensive,34,True
+The Power of Habit: Why We Do What We Do in Life and Business,£16.88,Three,In stock,16.88,3,Affordable,61,True
+The Marriage of Opposites,£28.08,Four,In stock,28.08,4,Expensive,25,True
+The Lucifer Effect: Understanding How Good People Turn Evil,£10.40,One,In stock,10.4,1,Affordable,59,True
+The Long Haul (Diary of a Wimpy Kid #9),£44.07,One,In stock,44.07,1,Expensive,39,True
+The Loney,£23.40,One,In stock,23.4,1,Expensive,9,True
+The Literature Book (Big Ideas Simply Explained),£17.43,Three,In stock,17.43,3,Affordable,48,True
+The Last Mile (Amos Decker #2),£54.21,Two,In stock,54.21,2,Expensive,30,True
+The Immortal Life of Henrietta Lacks,£40.67,Two,In stock,40.67,2,Expensive,36,True
+The Hidden Oracle (The Trials of Apollo #1),£52.26,Two,In stock,52.26,2,Expensive,43,True
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,£28.77,Three,In stock,28.77,3,Expensive,113,True
+The Guilty (Will Robie #4),£13.82,Two,In stock,13.82,2,Affordable,26,True
+The First Hostage (J.B. Collins #2),£25.85,Three,In stock,25.85,3,Expensive,35,True
+The Dovekeepers,£48.78,One,In stock,48.78,1,Expensive,15,True
+The Darkest Lie,£35.35,Five,In stock,35.35,5,Expensive,15,True
+The Bane Chronicles (The Bane Chronicles #1-11),£44.73,Four,In stock,44.73,4,Expensive,47,True
+The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,£15.77,One,In stock,15.77,1,Affordable,96,True
+The 14th Colony (Cotton Malone #11),£39.24,One,In stock,39.24,1,Expensive,35,True
+That Darkness (Gardiner and Renner #1),£13.92,One,In stock,13.92,1,Affordable,38,True
+Tastes Like Fear (DI Marnie Rome #3),£10.69,One,In stock,10.69,1,Affordable,36,True
+Take Me with You,£45.21,Three,In stock,45.21,3,Expensive,16,True
+Swell: A Year of Waves,£45.58,One,In stock,45.58,1,Expensive,22,True
+Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),£11.89,Five,In stock,11.89,5,Affordable,61,True
+Still Life with Bread Crumbs,£26.41,Three,In stock,26.41,3,Expensive,28,True
+Steve Jobs,£39.50,Five,In stock,39.5,5,Expensive,10,True
+Sorting the Beef from the Bull: The Science of Food Fraud Forensics,£44.74,Four,In stock,44.74,4,Expensive,67,True
+Someone Like You (The Harrisons #2),£52.79,Five,In stock,52.79,5,Expensive,35,True
+"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",£35.43,Four,In stock,35.43,4,Expensive,50,True
+Shtum,£55.84,Four,In stock,55.84,4,Expensive,5,True
+See America: A Celebration of Our National Parks & Treasured Sites,£48.87,Three,In stock,48.87,3,Expensive,66,True
+salt.,£46.78,Four,In stock,46.78,4,Expensive,5,True
+Robin War,£47.82,Three,In stock,47.82,3,Expensive,9,True
+"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",£25.48,Two,In stock,25.48,2,Expensive,65,True
+Rain Fish,£23.57,Three,In stock,23.57,3,Expensive,9,True
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",£50.89,Five,In stock,50.89,5,Expensive,58,True
+Pet Sematary,£10.56,Three,In stock,10.56,3,Affordable,12,True
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",£52.15,Three,In stock,52.15,3,Expensive,81,True
+Once Was a Time,£18.28,Two,In stock,18.28,2,Affordable,15,True
+Old School (Diary of a Wimpy Kid #10),£11.83,Five,In stock,11.83,5,Affordable,37,True
+No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,£21.95,Two,In stock,21.95,2,Expensive,68,True
+"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",£38.39,Two,In stock,38.39,2,Expensive,82,True
+My Name Is Lucy Barton,£41.56,One,In stock,41.56,1,Expensive,22,True
+My Mrs. Brown,£24.48,Three,In stock,24.48,3,Expensive,13,True
+My Kind of Crazy,£40.36,One,In stock,40.36,1,Expensive,16,True
+Mr. Mercedes (Bill Hodges Trilogy #1),£28.90,One,In stock,28.9,1,Expensive,37,True
+More Than Music (Chasing the Dream #1),£37.61,Two,In stock,37.61,2,Expensive,38,True
+Made to Stick: Why Some Ideas Survive and Others Die,£38.85,Five,In stock,38.85,5,Expensive,52,True
+Luis Paints the World,£53.95,Three,In stock,53.95,3,Expensive,21,True
+Luckiest Girl Alive,£49.83,Three,In stock,49.83,3,Expensive,19,True
+Lowriders to the Center of the Earth (Lowriders in Space #2),£51.51,Two,In stock,51.51,2,Expensive,60,True
+Love Is a Mix Tape (Music #1),£18.03,One,In stock,18.03,1,Affordable,29,True
+Looking for Lovely: Collecting the Moments that Matter,£29.14,Five,In stock,29.14,5,Expensive,54,True
+"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",£46.91,Four,In stock,46.91,4,Expensive,85,True
+Let It Out: A Journey Through Journaling,£26.79,Five,In stock,26.79,5,Expensive,40,True
+Lady Midnight (The Dark Artifices #1),£16.28,Five,In stock,16.28,5,Affordable,37,True
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",£19.55,One,In stock,19.55,1,Affordable,69,True
+Island of Dragons (Unwanteds #7),£29.65,One,In stock,29.65,1,Expensive,32,True
+I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,£25.98,Four,In stock,25.98,4,Expensive,96,True
+I Am Pilgrim (Pilgrim #1),£10.60,Four,In stock,10.6,4,Affordable,25,True
+"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",£14.75,Five,In stock,14.75,5,Affordable,110,True
+"Hush, Hush (Hush, Hush #1)",£47.02,Three,In stock,47.02,3,Expensive,26,True
+Hold Your Breath (Search and Rescue #1),£28.82,One,In stock,28.82,1,Expensive,39,True
+Hamilton: The Revolution,£58.79,Three,In stock,58.79,3,Expensive,24,True
+Greek Mythic History,£10.23,Five,In stock,10.23,5,Affordable,20,True
+God: The Most Unpleasant Character in All Fiction,£30.03,Five,In stock,30.03,5,Expensive,49,True
+Glory over Everything: Beyond The Kitchen House,£45.84,Three,In stock,45.84,3,Expensive,47,True
+Feathers: Displays of Brilliant Plumage,£49.05,Three,In stock,49.05,3,Expensive,39,True
+"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",£15.06,Four,In stock,15.06,4,Affordable,78,True
+Every Last Word,£46.47,Three,In stock,46.47,3,Expensive,15,True
+Eligible (The Austen Project #4),£27.09,Three,In stock,27.09,3,Expensive,32,True
+El Deafo,£57.62,Five,In stock,57.62,5,Expensive,8,True
+Eight Hundred Grapes,£14.39,Four,In stock,14.39,4,Affordable,20,True
+"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",£51.75,Five,In stock,51.75,5,Expensive,99,True
+"Eat Fat, Get Thin",£54.07,Two,In stock,54.07,2,Expensive,17,True
+Don't Get Caught,£55.35,One,In stock,55.35,1,Expensive,16,True
+Doctor Sleep (The Shining #2),£40.12,Two,In stock,40.12,2,Expensive,29,True
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),£37.51,Five,In stock,37.51,5,Expensive,104,True
+Dear Mr. Knightley,£11.21,Five,In stock,11.21,5,Affordable,18,True
+Daily Fantasy Sports,£36.58,One,In stock,36.58,1,Expensive,20,True
+Crazy Love: Overwhelmed by a Relentless God,£47.72,Two,In stock,47.72,2,Expensive,43,True
+Cometh the Hour (The Clifton Chronicles #6),£25.01,Three,In stock,25.01,3,Expensive,43,True
+Code Name Verity (Code Name Verity #1),£22.13,Four,In stock,22.13,4,Expensive,38,True
+Clockwork Angel (The Infernal Devices #1),£44.14,One,In stock,44.14,1,Expensive,41,True
+City of Glass (The Mortal Instruments #3),£56.02,Four,In stock,56.02,4,Expensive,41,True
+City of Fallen Angels (The Mortal Instruments #4),£11.23,Four,In stock,11.23,4,Affordable,49,True
+City of Bones (The Mortal Instruments #1),£43.28,One,In stock,43.28,1,Expensive,41,True
+City of Ashes (The Mortal Instruments #2),£47.27,One,In stock,47.27,1,Expensive,41,True
+Cell,£20.29,Four,In stock,20.29,4,Expensive,4,True
+Catching Jordan (Hundred Oaks),£50.83,Three,In stock,50.83,3,Expensive,30,True
+"Carry On, Warrior: Thoughts on Life Unarmed",£31.85,Three,In stock,31.85,3,Expensive,43,True
+Carrie,£46.23,Two,In stock,46.23,2,Expensive,6,True
+Buying In: The Secret Dialogue Between What We Buy and Who We Are,£37.80,Four,In stock,37.8,4,Expensive,65,True
+Brain on Fire: My Month of Madness,£49.32,Five,In stock,49.32,5,Expensive,34,True
+Batman: Europa,£32.01,Two,In stock,32.01,2,Expensive,14,True
+Barefoot Contessa Back to Basics,£28.01,One,In stock,28.01,1,Expensive,32,True
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,£50.62,Five,In stock,50.62,5,Expensive,75,True
+Balloon Animals,£17.03,Three,In stock,17.03,3,Affordable,15,True
+Art Ops Vol. 1,£48.80,Three,In stock,48.8,3,Expensive,14,True
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),£58.14,Four,In stock,58.14,4,Expensive,118,True
+Angels Walking (Angels Walking #1),£34.20,Two,In stock,34.2,2,Expensive,34,True
+Angels & Demons (Robert Langdon #1),£51.48,Three,In stock,51.48,3,Expensive,35,True
+All the Light We Cannot See,£29.87,Five,In stock,29.87,5,Expensive,27,True
+"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",£10.90,Two,In stock,10.9,2,Affordable,53,True
+Abstract City,£56.37,Five,In stock,56.37,5,Expensive,13,True
+A Time of Torment (Charlie Parker #14),£48.35,Five,In stock,48.35,5,Expensive,38,True
+A Study in Scarlet (Sherlock Holmes #1),£16.73,Two,In stock,16.73,2,Affordable,39,True
+"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",£56.48,Two,In stock,56.48,2,Expensive,80,True
+A People's History of the United States,£40.79,Two,In stock,40.79,2,Expensive,39,True
+A Man Called Ove,£39.72,One,In stock,39.72,1,Expensive,16,True
+A Distant Mirror: The Calamitous 14th Century,£14.58,Three,In stock,14.58,3,Affordable,45,True
+A Brush of Wings (Angels Walking #3),£55.51,One,In stock,55.51,1,Expensive,36,True
+1491: New Revelations of the Americas Before Columbus,£21.80,Three,In stock,21.8,3,Expensive,53,True
+"The Three Searches, Meaning, and the Story",£13.33,Three,In stock,13.33,3,Affordable,42,True
+Searching for Meaning in Gailana,£38.73,One,In stock,38.73,1,Expensive,32,True
+Rook,£37.86,Four,In stock,37.86,4,Expensive,4,True
+My Kitchen Year: 136 Recipes That Saved My Life,£11.53,Two,In stock,11.53,2,Affordable,47,True
+13 Hours: The Inside Account of What Really Happened In Benghazi,£27.06,One,In stock,27.06,1,Expensive,64,True
+Will You Won't You Want Me?,£13.86,Three,In stock,13.86,3,Affordable,27,True
+Tipping Point for Planet Earth: How Close Are We to the Edge?,£37.55,One,In stock,37.55,1,Expensive,61,True
+The Star-Touched Queen,£32.30,Five,In stock,32.3,5,Expensive,22,True
+The Silent Sister (Riley MacPherson #1),£46.29,Five,In stock,46.29,5,Expensive,39,True
+The Midnight Watch: A Novel of the Titanic and the Californian,£26.20,One,In stock,26.2,1,Expensive,62,True
+The Lonely City: Adventures in the Art of Being Alone,£33.26,Two,In stock,33.26,2,Expensive,53,True
+The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,£59.15,Four,In stock,59.15,4,Expensive,73,True
+The Golden Condom: And Other Essays on Love Lost and Found,£39.43,One,In stock,39.43,1,Expensive,58,True
+The Epidemic (The Program 0.6),£14.44,Five,In stock,14.44,5,Affordable,30,True
+The Dinner Party,£56.54,Two,In stock,56.54,2,Expensive,16,True
+The Diary of a Young Girl,£59.90,Three,In stock,59.9,3,Expensive,25,True
+The Children,£11.88,Three,In stock,11.88,3,Affordable,12,True
+Stars Above (The Lunar Chronicles #4.5),£48.05,Two,In stock,48.05,2,Expensive,39,True
+Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,£21.21,Three,In stock,21.21,3,Expensive,95,True
+Raspberry Pi Electronics Projects for the Evil Genius,£49.67,Four,In stock,49.67,4,Expensive,53,True
+Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,£43.14,One,In stock,43.14,1,Expensive,67,True
+Psycho: Sanitarium (Psycho #1.5),£36.97,Five,In stock,36.97,5,Expensive,32,True
+Poisonous (Max Revere Novels #3),£26.80,Three,In stock,26.8,3,Expensive,32,True
+One with You (Crossfire #5),£15.71,Four,In stock,15.71,4,Affordable,27,True
+No Love Allowed (Dodge Cove #1),£54.65,Four,In stock,54.65,4,Expensive,31,True
+Murder at the 42nd Street Library (Raymond Ambler #1),£54.36,Four,In stock,54.36,4,Expensive,53,True
+Most Wanted,£35.28,Three,In stock,35.28,3,Expensive,11,True
+"Love, Lies and Spies",£20.55,Two,In stock,20.55,2,Expensive,20,True
+How to Speak Golf: An Illustrated Guide to Links Lingo,£58.32,Five,In stock,58.32,5,Expensive,54,True
+Hide Away (Eve Duncan #20),£11.84,One,In stock,11.84,1,Affordable,26,True
+Furiously Happy: A Funny Book About Horrible Things,£41.46,Four,In stock,41.46,4,Expensive,51,True
+Everyday Italian: 125 Simple and Delicious Recipes,£20.10,Five,In stock,20.1,5,Expensive,50,True
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,£56.86,One,In stock,56.86,1,Expensive,68,True
+Eleanor & Park,£56.51,Five,In stock,56.51,5,Expensive,14,True
+Dirty (Dive Bar #1),£40.83,Four,In stock,40.83,4,Expensive,19,True
+Can You Keep a Secret? (Fear Street Relaunch #4),£48.64,One,In stock,48.64,1,Expensive,48,True
+Boar Island (Anna Pigeon #19),£59.48,Three,In stock,59.48,3,Expensive,29,True
+A Paris Apartment,£39.01,Four,In stock,39.01,4,Expensive,17,True
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",£38.77,One,In stock,38.77,1,Expensive,131,True
+Troublemaker: Surviving Hollywood and Scientology,£48.39,Two,In stock,48.39,2,Expensive,49,True
+The Widow,£27.26,Two,In stock,27.26,2,Expensive,9,True
+"The Sleep Revolution: Transforming Your Life, One Night at a Time",£11.68,Four,In stock,11.68,4,Affordable,65,True
+The Improbability of Love,£59.45,One,In stock,59.45,1,Expensive,25,True
+The Art of Startup Fundraising,£21.00,Three,In stock,21.0,3,Expensive,30,True
+Take Me Home Tonight (Rock Star Romance #3),£53.98,Three,In stock,53.98,3,Expensive,43,True
+Sleeping Giants (Themis Files #1),£48.74,One,In stock,48.74,1,Expensive,33,True
+"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",£21.15,Two,In stock,21.15,2,Expensive,80,True
+Playing with Fire,£13.71,Three,In stock,13.71,3,Affordable,17,True
+Off the Hook (Fishing for Trouble #1),£47.67,Three,In stock,47.67,3,Expensive,37,True
+Mothering Sunday,£13.34,Two,In stock,13.34,2,Affordable,16,True
+"Mother, Can You Not?",£16.89,Five,In stock,16.89,5,Affordable,20,True
+M Train,£27.18,One,In stock,27.18,1,Expensive,7,True
+Lilac Girls,£17.28,Two,In stock,17.28,2,Affordable,11,True
+Lies and Other Acts of Love,£45.14,One,In stock,45.14,1,Expensive,27,True
+Lab Girl,£40.85,One,In stock,40.85,1,Expensive,8,True
+Keep Me Posted,£20.46,Four,In stock,20.46,4,Expensive,14,True
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,£56.27,Three,In stock,56.27,3,Expensive,96,True
+Grey (Fifty Shades #4),£48.49,Four,In stock,48.49,4,Expensive,22,True
+"Exit, Pursued by a Bear",£51.34,Four,In stock,51.34,4,Expensive,23,True
+Daredevils,£16.34,Three,In stock,16.34,3,Affordable,10,True
+Cravings: Recipes for What You Want to Eat,£20.50,Three,In stock,20.5,3,Expensive,42,True
+Born for This: How to Find the Work You Were Meant to Do,£21.59,Five,In stock,21.59,5,Expensive,56,True
+Arena,£21.36,Four,In stock,21.36,4,Expensive,5,True
+Adultery,£20.88,Five,In stock,20.88,5,Expensive,8,True
+A Mother's Reckoning: Living in the Aftermath of Tragedy,£19.53,Three,In stock,19.53,3,Affordable,56,True
+A Gentleman's Position (Society of Gentlemen #3),£14.75,Five,In stock,14.75,5,Affordable,48,True
+11/22/63,£48.48,Three,In stock,48.48,3,Expensive,8,True
+"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",£24.57,Two,In stock,24.57,2,Expensive,125,True
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,£49.71,Five,In stock,49.71,5,Expensive,63,True
+Without Shame,£48.27,Five,In stock,48.27,5,Expensive,13,True
+Watchmen,£58.05,Four,In stock,58.05,4,Expensive,8,True
+Unlimited Intuition Now,£58.87,Four,In stock,58.87,4,Expensive,23,True
+Underlying Notes,£11.82,Two,In stock,11.82,2,Affordable,16,True
+The Shack,£28.03,One,In stock,28.03,1,Expensive,9,True
+The New Brand You: Your New Image Makes the Sale for You,£44.05,Five,In stock,44.05,5,Expensive,56,True
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",£12.34,Four,In stock,12.34,4,Affordable,75,True
+The Flowers Lied,£16.68,Two,In stock,16.68,2,Affordable,16,True
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",£55.91,One,In stock,55.91,1,Expensive,65,True
+The Book of Mormon,£24.57,Three,In stock,24.57,3,Expensive,18,True
+The Art and Science of Low Carbohydrate Living,£52.98,Five,In stock,52.98,5,Expensive,46,True
+The Alien Club,£54.40,One,In stock,54.4,1,Expensive,14,True
+Suzie Snowflake: One beautiful flake (a self-esteem story),£54.81,Five,In stock,54.81,5,Expensive,58,True
+Nap-a-Roo,£25.08,One,In stock,25.08,1,Expensive,9,True
+"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",£10.41,Four,In stock,10.41,4,Affordable,133,True
+Modern Day Fables,£47.44,Two,In stock,47.44,2,Expensive,17,True
+If I Gave You God's Phone Number....: Searching for Spirituality in America,£20.91,One,In stock,20.91,1,Expensive,75,True
+"Fruits Basket, Vol. 9 (Fruits Basket #9)",£33.95,Four,In stock,33.95,4,Expensive,40,True
+Dress Your Family in Corduroy and Denim,£43.68,Three,In stock,43.68,3,Expensive,39,True
+Don't Forget Steven,£33.23,One,In stock,33.23,1,Expensive,19,True
+Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,£35.92,Two,In stock,35.92,2,Expensive,83,True
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,£48.63,Four,In stock,48.63,4,Expensive,67,True
+A Shard of Ice (The Black Symphony Saga #1),£56.63,Three,In stock,56.63,3,Expensive,43,True
+A Hero's Curse (The Unseen Chronicles #1),£50.49,Three,In stock,50.49,3,Expensive,41,True
+23 Degrees South: A Tropical Tale of Changing Whether...,£35.79,Two,In stock,35.79,2,Expensive,56,True
+"Zero to One: Notes on Startups, or How to Build the Future",£34.06,Three,In stock,34.06,3,Expensive,58,True
+Why Not Me?,£17.76,One,In stock,17.76,1,Affordable,11,True
+When Breath Becomes Air,£39.36,Two,In stock,39.36,2,Expensive,23,True
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,£36.94,Two,In stock,36.94,2,Expensive,67,True
+The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),£43.62,Five,In stock,43.62,5,Expensive,53,True
+The New Drawing on the Right Side of the Brain,£43.02,Three,In stock,43.02,3,Expensive,46,True
+"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",£28.45,Four,In stock,28.45,4,Expensive,85,True
+The Martian (The Martian #1),£41.39,Two,In stock,41.39,2,Expensive,28,True
+The High Mountains of Portugal,£51.15,One,In stock,51.15,1,Expensive,30,True
+The Grownup,£35.88,One,In stock,35.88,1,Expensive,11,True
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,£36.91,One,In stock,36.91,1,Expensive,82,True
+South of Sunshine,£28.93,One,In stock,28.93,1,Expensive,17,True
+Smarter Faster Better: The Secrets of Being Productive in Life and Business,£38.89,Five,In stock,38.89,5,Expensive,75,True
+Silence in the Dark (Logan Point #4),£58.33,Three,In stock,58.33,3,Expensive,36,True
+Shadows of the Past (Logan Point #1),£39.67,Five,In stock,39.67,5,Expensive,36,True
+Roller Girl,£14.10,Five,In stock,14.1,5,Affordable,11,True
+Rising Strong,£21.82,Three,In stock,21.82,3,Expensive,13,True
+Proofs of God: Classical Arguments from Tertullian to Barth,£54.21,One,In stock,54.21,1,Expensive,59,True
+Please Kill Me: The Uncensored Oral History of Punk,£31.19,Four,In stock,31.19,4,Expensive,51,True
+Out of Print: City Lights Spotlight No. 14,£53.64,Five,In stock,53.64,5,Expensive,42,True
+My Life Next Door (My Life Next Door ),£36.39,Five,In stock,36.39,5,Expensive,38,True
+Miller's Valley,£58.54,Two,In stock,58.54,2,Expensive,15,True
+Man's Search for Meaning,£29.48,Three,In stock,29.48,3,Expensive,24,True
+"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",£25.06,Two,In stock,25.06,2,Expensive,104,True
+Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,£12.55,Three,In stock,12.55,3,Affordable,72,True
+Les Fleurs du Mal,£29.04,Five,In stock,29.04,5,Expensive,17,True
+Left Behind (Left Behind #1),£40.72,Two,In stock,40.72,2,Expensive,28,True
+Kill 'Em and Leave: Searching for James Brown and the American Soul,£45.05,Five,In stock,45.05,5,Expensive,67,True
+Kierkegaard: A Christian Missionary to Christians,£47.13,One,In stock,47.13,1,Expensive,49,True
+John Vassos: Industrial Design for Modern Life,£20.22,Four,In stock,20.22,4,Expensive,46,True
+I'll Give You the Sun,£56.48,One,In stock,56.48,1,Expensive,21,True
+I Will Find You,£44.21,One,In stock,44.21,1,Expensive,15,True
+Hystopia: A Novel,£21.96,Four,In stock,21.96,4,Expensive,17,True
+Howl and Other Poems,£40.45,Two,In stock,40.45,2,Expensive,20,True
+History of Beauty,£10.29,Four,In stock,10.29,4,Affordable,17,True
+Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,£52.86,Two,In stock,52.86,2,Expensive,82,True
+Future Shock (Future Shock #1),£55.65,Five,In stock,55.65,5,Expensive,30,True
+Ender's Game (The Ender Quintet #1),£43.64,One,In stock,43.64,1,Expensive,35,True
+Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,£28.41,One,In stock,28.41,1,Expensive,92,True
+Death by Leisure: A Cautionary Tale,£37.51,Four,In stock,37.51,4,Expensive,35,True
+Brilliant Beacons: A History of the American Lighthouse,£11.45,Three,In stock,11.45,3,Affordable,55,True
+Brazen: The Courage to Find the You That's Been Hiding,£19.22,Two,In stock,19.22,2,Affordable,54,True
+Between the World and Me,£56.91,Four,In stock,56.91,4,Expensive,24,True
+Being Mortal: Medicine and What Matters in the End,£55.06,Four,In stock,55.06,4,Expensive,50,True
+"A Murder Over a Girl: Justice, Gender, Junior High",£13.20,Three,In stock,13.2,3,Affordable,50,True
+32 Yolks,£53.63,Two,In stock,53.63,2,Expensive,8,True
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",£44.48,Five,In stock,44.48,5,Expensive,84,True
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,£12.08,Three,In stock,12.08,3,Affordable,86,True
+Wildlife of New York: A Five-Borough Coloring Book,£22.14,Two,In stock,22.14,2,Expensive,50,True
+What Happened on Beale Street (Secrets of the South Mysteries #2),£25.37,Five,In stock,25.37,5,Expensive,65,True
+Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,£46.33,Two,In stock,46.33,2,Expensive,75,True
+Under the Tuscan Sun,£37.33,Three,In stock,37.33,3,Expensive,20,True
+Toddlers Are A**holes: It's Not Your Fault,£25.55,One,In stock,25.55,1,Expensive,42,True
+The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,£34.72,One,In stock,34.72,1,Expensive,98,True
+The Whale,£35.96,Four,In stock,35.96,4,Expensive,9,True
+The Story of Art,£41.14,Four,In stock,41.14,4,Expensive,16,True
+The Origin of Species,£10.01,Four,In stock,10.01,4,Affordable,21,True
+The Great Gatsby,£36.05,Four,In stock,36.05,4,Expensive,16,True
+The Good Girl,£49.03,Three,In stock,49.03,3,Expensive,13,True
+The Glass Castle,£16.24,One,In stock,16.24,1,Affordable,16,True
+The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,£39.55,One,In stock,39.55,1,Expensive,90,True
+The Drowning Girls,£35.67,Three,In stock,35.67,3,Expensive,18,True
+The Constant Princess (The Tudor Court #1),£16.62,Three,In stock,16.62,3,Affordable,42,True
+The Bourne Identity (Jason Bourne #1),£42.78,Four,In stock,42.78,4,Expensive,37,True
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),£52.30,Five,In stock,52.3,5,Expensive,72,True
+The Art Book,£32.34,Two,In stock,32.34,2,Expensive,12,True
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,£33.17,Four,In stock,33.17,4,Expensive,76,True
+Team of Rivals: The Political Genius of Abraham Lincoln,£20.12,Five,In stock,20.12,5,Expensive,55,True
+Steal Like an Artist: 10 Things Nobody Told You About Being Creative,£20.90,Two,In stock,20.9,2,Expensive,68,True
+"Sit, Stay, Love",£20.90,Three,In stock,20.9,3,Expensive,15,True
+Sister Dear,£40.20,Four,In stock,40.2,4,Expensive,11,True
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",£52.87,Three,In stock,52.87,3,Expensive,62,True
+"Rich Dad, Poor Dad",£51.74,One,In stock,51.74,1,Expensive,18,True
+Raymie Nightingale,£34.41,Two,In stock,34.41,2,Expensive,18,True
+Playing from the Heart,£32.38,One,In stock,32.38,1,Expensive,22,True
+Nightstruck: A Novel,£50.35,Four,In stock,50.35,4,Expensive,20,True
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",£11.38,Five,In stock,11.38,5,Affordable,87,True
+Meternity,£43.58,Three,In stock,43.58,3,Expensive,9,True
+Memoirs of a Geisha,£49.67,Three,In stock,49.67,3,Expensive,19,True
+Like Never Before (Walker Family #2),£28.77,Two,In stock,28.77,2,Expensive,36,True
+Life of Pi,£13.22,Four,In stock,13.22,4,Affordable,10,True
+Leave This Song Behind: Teen Poetry at Its Best,£51.17,Five,In stock,51.17,5,Expensive,47,True
+King's Folly (The Kinsman Chronicles #1),£39.61,Five,In stock,39.61,5,Expensive,40,True
+John Adams,£57.43,Four,In stock,57.43,4,Expensive,10,True
+How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),£46.01,Four,In stock,46.01,4,Expensive,98,True
+How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,£28.25,Two,In stock,28.25,2,Expensive,67,True
+Good in Bed (Cannie Shapiro #1),£37.05,Five,In stock,37.05,5,Expensive,31,True
+"Fruits Basket, Vol. 7 (Fruits Basket #7)",£19.57,One,In stock,19.57,1,Affordable,40,True
+For the Love: Fighting for Grace in a World of Impossible Standards,£45.13,Three,In stock,45.13,3,Expensive,67,True
+Finding God in the Ruins: How God Redeems Pain,£46.64,Two,In stock,46.64,2,Expensive,46,True
+Every Heart a Doorway (Every Heart A Doorway #1),£12.16,Five,In stock,12.16,5,Affordable,48,True
+Delivering the Truth (Quaker Midwife Mystery #1),£20.89,Four,In stock,20.89,4,Expensive,48,True
+Counted With the Stars (Out from Egypt #1),£17.97,Five,In stock,17.97,5,Affordable,42,True
+"Chronicles, Vol. 1",£52.60,Two,In stock,52.6,2,Expensive,18,True
+Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,£25.77,One,In stock,25.77,1,Expensive,63,True
+Benjamin Franklin: An American Life,£48.19,Three,In stock,48.19,3,Expensive,35,True
+"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",£29.93,Five,In stock,29.93,5,Expensive,204,True
+A Summer In Europe,£44.34,Two,In stock,44.34,2,Expensive,18,True
+A Short History of Nearly Everything,£52.40,Five,In stock,52.4,5,Expensive,36,True
+A Gathering of Shadows (Shades of Magic #2),£44.81,Four,In stock,44.81,4,Expensive,43,True
+The Sound Of Love,£57.84,Five,In stock,57.84,5,Expensive,17,True
+The Rise and Fall of the Third Reich: A History of Nazi Germany,£39.67,Two,In stock,39.67,2,Expensive,63,True
+The Perks of Being a Wallflower,£55.02,Three,In stock,55.02,3,Expensive,31,True
+The Mysterious Affair at Styles (Hercule Poirot #1),£24.80,Four,In stock,24.8,4,Expensive,51,True
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,£59.45,Four,In stock,59.45,4,Expensive,63,True
+The Makings of a Fatherless Child,£31.58,Two,In stock,31.58,2,Expensive,33,True
+The Joy of Cooking,£43.27,Four,In stock,43.27,4,Expensive,18,True
+The Invention of Wings,£37.34,One,In stock,37.34,1,Expensive,22,True
+The Hobbit (Middle-Earth Universe),£17.80,Five,In stock,17.8,5,Affordable,34,True
+The Great Railway Bazaar,£30.54,One,In stock,30.54,1,Expensive,24,True
+The Golden Compass (His Dark Materials #1),£18.77,One,In stock,18.77,1,Affordable,42,True
+The God Delusion,£46.85,Three,In stock,46.85,3,Expensive,16,True
+The Girl You Left Behind (The Girl You Left Behind #1),£15.79,One,In stock,15.79,1,Affordable,54,True
+The Fellowship of the Ring (The Lord of the Rings #1),£10.27,Two,In stock,10.27,2,Affordable,53,True
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),£15.42,Five,In stock,15.42,5,Affordable,72,True
+The Barefoot Contessa Cookbook,£59.92,Five,In stock,59.92,5,Expensive,30,True
+Tell the Wolves I'm Home,£50.96,Two,In stock,50.96,2,Expensive,24,True
+Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,£30.60,Three,In stock,30.6,3,Expensive,63,True
+Pride and Prejudice,£19.27,Four,In stock,19.27,4,Affordable,19,True
+Musicophilia: Tales of Music and the Brain,£46.58,One,In stock,46.58,1,Expensive,42,True
+Mere Christianity,£48.51,Three,In stock,48.51,3,Expensive,17,True
+Me Before You (Me Before You #1),£19.02,One,In stock,19.02,1,Affordable,32,True
+In the Woods (Dublin Murder Squad #1),£38.38,Two,In stock,38.38,2,Expensive,37,True
+In Cold Blood,£49.98,Four,In stock,49.98,4,Expensive,13,True
+How to Stop Worrying and Start Living,£46.49,Five,In stock,46.49,5,Expensive,37,True
+Give It Back,£18.32,Two,In stock,18.32,2,Affordable,12,True
+"Girl, Interrupted",£42.14,Three,In stock,42.14,3,Expensive,17,True
+Fun Home: A Family Tragicomic,£56.59,Four,In stock,56.59,4,Expensive,29,True
+"Fruits Basket, Vol. 6 (Fruits Basket #6)",£20.96,Four,In stock,20.96,4,Expensive,40,True
+Deception Point,£40.32,Four,In stock,40.32,4,Expensive,15,True
+"Death Note, Vol. 6: Give-and-Take (Death Note #6)",£36.39,Three,In stock,36.39,3,Expensive,49,True
+Catherine the Great: Portrait of a Woman,£58.55,Four,In stock,58.55,4,Expensive,40,True
+Better Homes and Gardens New Cook Book,£39.61,Three,In stock,39.61,3,Expensive,38,True
+An Unquiet Mind: A Memoir of Moods and Madness,£21.30,Three,In stock,21.3,3,Expensive,46,True
+A Year in Provence (Provence #1),£56.88,Four,In stock,56.88,4,Expensive,32,True
+World Without End (The Pillars of the Earth #2),£32.97,Four,In stock,32.97,4,Expensive,47,True
+"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",£47.31,Four,In stock,47.31,4,Expensive,55,True
+Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,£48.67,Two,In stock,48.67,2,Expensive,76,True
+Where She Went (If I Stay #2),£41.73,Four,In stock,41.73,4,Expensive,29,True
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions,£53.68,Four,In stock,53.68,4,Expensive,69,True
+Two Summers,£14.64,One,In stock,14.64,1,Affordable,11,True
+This Is Your Brain on Music: The Science of a Human Obsession,£38.40,One,In stock,38.4,1,Expensive,61,True
+The Secret Garden,£15.08,Four,In stock,15.08,4,Affordable,17,True
+The Raven King (The Raven Cycle #4),£30.57,Two,In stock,30.57,2,Expensive,35,True
+The Raven Boys (The Raven Cycle #1),£57.74,Four,In stock,57.74,4,Expensive,35,True
+The Power Greens Cookbook: 140 Delicious Superfood Recipes,£11.05,Five,In stock,11.05,5,Affordable,58,True
+The Metamorphosis,£28.58,One,In stock,28.58,1,Expensive,17,True
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,£42.91,Five,In stock,42.91,5,Expensive,68,True
+The Little Paris Bookshop,£24.73,Three,In stock,24.73,3,Expensive,25,True
+The Hiding Place,£55.91,Four,In stock,55.91,4,Expensive,16,True
+The Grand Design,£13.76,Three,In stock,13.76,3,Affordable,16,True
+The Firm,£45.56,Three,In stock,45.56,3,Expensive,8,True
+The Fault in Our Stars,£47.22,One,In stock,47.22,1,Expensive,22,True
+The False Prince (The Ascendance Trilogy #1),£56.00,Five,In stock,56.0,5,Expensive,44,True
+The Expatriates,£44.58,Two,In stock,44.58,2,Expensive,15,True
+The Dream Thieves (The Raven Cycle #2),£34.50,One,In stock,34.5,1,Expensive,38,True
+The Darkest Corners,£11.33,Five,In stock,11.33,5,Affordable,19,True
+The Crossover,£38.77,Four,In stock,38.77,4,Expensive,13,True
+The 5th Wave (The 5th Wave #1),£11.83,Two,In stock,11.83,2,Affordable,30,True
+Tell the Wind and Fire,£45.51,Three,In stock,45.51,3,Expensive,22,True
+Tell Me Three Things,£41.81,One,In stock,41.81,1,Expensive,20,True
+Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,£25.15,Four,In stock,25.15,4,Expensive,92,True
+Siddhartha,£34.22,Five,In stock,34.22,5,Expensive,10,True
+Shiver (The Wolves of Mercy Falls #1),£16.23,Five,In stock,16.23,5,Affordable,37,True
+Remember Me?,£11.48,Three,In stock,11.48,3,Affordable,12,True
+Red Dragon (Hannibal Lecter #1),£23.37,Three,In stock,23.37,3,Expensive,31,True
+Peak: Secrets from the New Science of Expertise,£16.28,Two,In stock,16.28,2,Affordable,47,True
+My Mother Was Nuts,£31.63,Four,In stock,31.63,4,Expensive,18,True
+Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,£24.91,Five,In stock,24.91,5,Expensive,69,True
+Maybe Something Beautiful: How Art Transformed a Neighborhood,£22.54,One,In stock,22.54,1,Expensive,61,True
+Lola and the Boy Next Door (Anna and the French Kiss #2),£23.63,Four,In stock,23.63,4,Expensive,56,True
+Logan Kade (Fallen Crest High #5.5),£13.12,Two,In stock,13.12,2,Affordable,35,True
+Last One Home (New Beginnings #1),£59.98,Three,In stock,59.98,3,Expensive,33,True
+Killing Floor (Jack Reacher #1),£31.49,Four,In stock,31.49,4,Expensive,31,True
+Kill the Boy Band,£15.52,Five,In stock,15.52,5,Affordable,17,True
+Isla and the Happily Ever After (Anna and the French Kiss #3),£48.13,Five,In stock,48.13,5,Expensive,61,True
+If I Stay (If I Stay #1),£38.13,Five,In stock,38.13,5,Expensive,24,True
+I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),£36.55,Two,In stock,36.55,2,Expensive,65,True
+Harry Potter and the Deathly Hallows (Harry Potter #7),£23.32,One,In stock,23.32,1,Expensive,54,True
+"Fruits Basket, Vol. 5 (Fruits Basket #5)",£16.33,One,In stock,16.33,1,Affordable,40,True
+Foundation (Foundation (Publication Order) #1),£32.42,One,In stock,32.42,1,Expensive,46,True
+Fool Me Once,£16.96,One,In stock,16.96,1,Affordable,12,True
+Find Her (Detective D.D. Warren #8),£22.37,One,In stock,22.37,1,Expensive,35,True
+Evicted: Poverty and Profit in the American City,£42.27,One,In stock,42.27,1,Expensive,48,True
+Drama,£38.70,Two,In stock,38.7,2,Expensive,5,True
+Dracula the Un-Dead,£35.63,Five,In stock,35.63,5,Expensive,19,True
+Digital Fortress,£58.00,Five,In stock,58.0,5,Expensive,16,True
+"Death Note, Vol. 5: Whiteout (Death Note #5)",£52.41,One,In stock,52.41,1,Expensive,44,True
+"Data, A Love Story: How I Gamed Online Dating to Meet My Match",£32.35,Three,In stock,32.35,3,Expensive,62,True
+Critique of Pure Reason,£20.75,One,In stock,20.75,1,Expensive,23,True
+Booked,£17.49,Five,In stock,17.49,5,Affordable,6,True
+"Blue Lily, Lily Blue (The Raven Cycle #3)",£34.13,Five,In stock,34.13,5,Expensive,41,True
+Approval Junkie: Adventures in Caring Too Much,£58.81,Five,In stock,58.81,5,Expensive,46,True
+An Abundance of Katherines,£10.00,Five,In stock,10.0,5,Affordable,26,True
+America's War for the Greater Middle East: A Military History,£51.22,Two,In stock,51.22,2,Expensive,61,True
+Alight (The Generations Trilogy #2),£58.59,Four,In stock,58.59,4,Expensive,35,True
+A Girl's Guide to Moving On (New Beginnings #2),£31.30,One,In stock,31.3,1,Expensive,47,True
+A Game of Thrones (A Song of Ice and Fire #1),£46.42,Two,In stock,46.42,2,Expensive,45,True
+A Feast for Crows (A Song of Ice and Fire #4),£17.21,Four,In stock,17.21,4,Affordable,45,True
+A Clash of Kings (A Song of Ice and Fire #2),£10.79,Three,In stock,10.79,3,Affordable,44,True
+Vogue Colors A to Z: A Fashion Coloring Book,£52.35,Four,In stock,52.35,4,Expensive,44,True
+The Shining (The Shining #1),£27.88,Three,In stock,27.88,3,Expensive,28,True
+The Pilgrim's Progress,£50.26,Two,In stock,50.26,2,Expensive,22,True
+The Perfect Play (Play by Play #1),£59.99,Three,In stock,59.99,3,Expensive,34,True
+The Passion of Dolssa,£28.32,Five,In stock,28.32,5,Expensive,21,True
+The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,£38.71,Three,In stock,38.71,3,Expensive,84,True
+The Hunger Games (The Hunger Games #1),£29.85,Five,In stock,29.85,5,Expensive,38,True
+The Hound of the Baskervilles (Sherlock Holmes #5),£14.82,Two,In stock,14.82,2,Affordable,50,True
+The Gunning of America: Business and the Making of American Gun Culture,£16.81,Four,In stock,16.81,4,Affordable,71,True
+The Geography of Bliss: One Grump's Search for the Happiest Places in the World,£28.23,Two,In stock,28.23,2,Expensive,79,True
+The Demonists (Demonist #1),£52.11,Two,In stock,52.11,2,Expensive,27,True
+"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",£27.88,Two,In stock,27.88,2,Expensive,80,True
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),£59.71,Three,In stock,59.71,3,Expensive,52,True
+The Beast (Black Dagger Brotherhood #14),£46.08,Five,In stock,46.08,5,Expensive,40,True
+Some Women,£13.73,Five,In stock,13.73,5,Affordable,10,True
+Shopaholic Ties the Knot (Shopaholic #3),£48.39,Five,In stock,48.39,5,Expensive,40,True
+Paper and Fire (The Great Library #2),£49.45,Five,In stock,49.45,5,Expensive,37,True
+Outlander (Outlander #1),£19.67,Five,In stock,19.67,5,Affordable,24,True
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",£12.36,Three,In stock,12.36,3,Affordable,131,True
+No One Here Gets Out Alive,£20.02,Five,In stock,20.02,5,Expensive,26,True
+Night Shift (Night Shift #1-20),£12.75,Four,In stock,12.75,4,Affordable,31,True
+Needful Things,£47.51,Four,In stock,47.51,4,Expensive,14,True
+Mockingjay (The Hunger Games #3),£20.44,Four,In stock,20.44,4,Expensive,32,True
+Misery,£34.79,Two,In stock,34.79,2,Expensive,6,True
+Little Women (Little Women #1),£28.07,Four,In stock,28.07,4,Expensive,30,True
+It,£25.01,Three,In stock,25.01,3,Expensive,2,True
+Harry Potter and the Sorcerer's Stone (Harry Potter #1),£13.90,Three,In stock,13.9,3,Affordable,55,True
+Harry Potter and the Prisoner of Azkaban (Harry Potter #3),£24.17,Four,In stock,24.17,4,Expensive,58,True
+Harry Potter and the Order of the Phoenix (Harry Potter #5),£31.63,Four,In stock,31.63,4,Expensive,59,True
+Harry Potter and the Half-Blood Prince (Harry Potter #6),£48.75,Five,In stock,48.75,5,Expensive,56,True
+Harry Potter and the Chamber of Secrets (Harry Potter #2),£14.74,One,In stock,14.74,1,Affordable,57,True
+Gone with the Wind,£32.49,Three,In stock,32.49,3,Expensive,18,True
+God Is Not Great: How Religion Poisons Everything,£27.80,One,In stock,27.8,1,Expensive,49,True
+Girl With a Pearl Earring,£26.77,One,In stock,26.77,1,Expensive,25,True
+"Fruits Basket, Vol. 4 (Fruits Basket #4)",£50.44,Four,In stock,50.44,4,Expensive,40,True
+Far From True (Promise Falls Trilogy #2),£34.93,Two,In stock,34.93,2,Expensive,40,True
+Dark Lover (Black Dagger Brotherhood #1),£12.87,One,In stock,12.87,1,Affordable,40,True
+Confessions of a Shopaholic (Shopaholic #1),£48.94,Two,In stock,48.94,2,Expensive,43,True
+Changing the Game (Play by Play #2),£13.38,Three,In stock,13.38,3,Affordable,35,True
+Candide,£58.63,Three,In stock,58.63,3,Expensive,7,True
+Can You Keep a Secret?,£21.94,One,In stock,21.94,1,Expensive,22,True
+Atlas Shrugged,£26.58,Five,In stock,26.58,5,Expensive,14,True
+Animal Farm,£57.22,Three,In stock,57.22,3,Expensive,11,True
+A Walk to Remember,£56.43,One,In stock,56.43,1,Expensive,18,True
+A New Earth: Awakening to Your Life's Purpose,£55.65,Five,In stock,55.65,5,Expensive,45,True
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",£27.62,One,In stock,27.62,1,Expensive,74,True
+'Salem's Lot,£49.56,Four,In stock,49.56,4,Expensive,12,True
+Zero History (Blue Ant #3),£34.77,One,In stock,34.77,1,Expensive,26,True
+Wuthering Heights,£17.73,Three,In stock,17.73,3,Affordable,17,True
+World War Z: An Oral History of the Zombie War,£21.80,One,In stock,21.8,1,Expensive,46,True
+Wild: From Lost to Found on the Pacific Crest Trail,£46.02,Three,In stock,46.02,3,Expensive,51,True
+"Where'd You Go, Bernadette",£18.13,One,In stock,18.13,1,Affordable,26,True
+When You Are Engulfed in Flames,£30.89,Five,In stock,30.89,5,Expensive,31,True
+We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,£31.95,Three,In stock,31.95,3,Expensive,108,True
+We Are All Completely Beside Ourselves,£24.04,One,In stock,24.04,1,Expensive,38,True
+Walk the Edge (Thunder Road #2),£32.36,Three,In stock,32.36,3,Expensive,31,True
+Voyager (Outlander #3),£21.07,Five,In stock,21.07,5,Expensive,22,True
+Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,£50.66,Three,In stock,50.66,3,Expensive,81,True
+Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,£13.66,Two,In stock,13.66,2,Affordable,59,True
+"Unstuffed: Decluttering Your Home, Mind, and Soul",£58.09,One,In stock,58.09,1,Expensive,49,True
+Under the Banner of Heaven: A Story of Violent Faith,£30.00,One,In stock,30.0,1,Expensive,52,True
+Two Boys Kissing,£32.74,Two,In stock,32.74,2,Expensive,16,True
+Twilight (Twilight #1),£41.93,Two,In stock,41.93,2,Expensive,22,True
+Twenties Girl,£42.80,Two,In stock,42.8,2,Expensive,13,True
+"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",£53.51,One,In stock,53.51,1,Expensive,109,True
+Three-Martini Lunch,£23.21,Three,In stock,23.21,3,Expensive,19,True
+"Thinking, Fast and Slow",£21.14,One,In stock,21.14,1,Expensive,23,True
+The Wild Robot,£56.07,Three,In stock,56.07,3,Expensive,14,True
+"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",£14.41,Three,In stock,14.41,3,Affordable,77,True
+The Undomestic Goddess,£45.75,Four,In stock,45.75,4,Expensive,22,True
+The Travelers,£15.77,One,In stock,15.77,1,Affordable,13,True
+The Tipping Point: How Little Things Can Make a Big Difference,£10.02,Two,In stock,10.02,2,Affordable,62,True
+The Thing About Jellyfish,£48.77,One,In stock,48.77,1,Expensive,25,True
+The Stand,£57.86,Two,In stock,57.86,2,Expensive,9,True
+The Smitten Kitchen Cookbook,£23.59,One,In stock,23.59,1,Expensive,28,True
+The Silkworm (Cormoran Strike #2),£23.05,Five,In stock,23.05,5,Expensive,33,True
+"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",£55.55,Five,In stock,55.55,5,Expensive,61,True
+The Rose & the Dagger (The Wrath and the Dawn #2),£58.64,Four,In stock,58.64,4,Expensive,49,True
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),£23.21,One,In stock,23.21,1,Expensive,97,True
+The Rise of Theodore Roosevelt (Theodore Roosevelt #1),£42.57,Three,In stock,42.57,3,Expensive,54,True
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),£10.92,One,In stock,10.92,1,Affordable,79,True
+The Rest Is Noise: Listening to the Twentieth Century,£34.77,One,In stock,34.77,1,Expensive,53,True
+The Red Tent,£35.66,Five,In stock,35.66,5,Expensive,12,True
+The Purpose Driven Life: What on Earth Am I Here for?,£37.19,Three,In stock,37.19,3,Expensive,53,True
+The Purest Hook (Second Circle Tattoos #3),£12.25,One,In stock,12.25,1,Affordable,42,True
+The Picture of Dorian Gray,£29.70,Two,In stock,29.7,2,Expensive,26,True
+The Paris Wife,£36.80,Three,In stock,36.8,3,Expensive,14,True
+The Obsession,£45.43,One,In stock,45.43,1,Expensive,13,True
+The Nightingale,£26.26,Four,In stock,26.26,4,Expensive,15,True
+The New Guy (and Other Senior Year Distractions),£44.92,Three,In stock,44.92,3,Expensive,48,True
+The Nanny Diaries (Nanny #1),£52.53,Five,In stock,52.53,5,Expensive,28,True
+The Name of God is Mercy,£37.25,Two,In stock,37.25,2,Expensive,24,True
+The Maze Runner (The Maze Runner #1),£20.93,One,In stock,20.93,1,Expensive,36,True
+The Lover's Dictionary,£58.09,Two,In stock,58.09,2,Expensive,22,True
+The Lonely Ones,£43.59,Five,In stock,43.59,5,Expensive,15,True
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,£33.92,Three,In stock,33.92,3,Expensive,111,True
+The Last Painting of Sara de Vos,£55.55,Two,In stock,55.55,2,Expensive,32,True
+"The Land of 10,000 Madonnas",£29.64,Four,In stock,29.64,4,Expensive,27,True
+The Infinities,£27.41,One,In stock,27.41,1,Expensive,14,True
+The Husband's Secret,£52.51,Five,In stock,52.51,5,Expensive,20,True
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),£47.80,Three,In stock,47.8,3,Expensive,74,True
+The Guns of August,£14.54,Two,In stock,14.54,2,Affordable,18,True
+The Guernsey Literary and Potato Peel Pie Society,£49.53,One,In stock,49.53,1,Expensive,49,True
+The Goldfinch,£43.58,Three,In stock,43.58,3,Expensive,13,True
+The Giver (The Giver Quartet #1),£12.30,One,In stock,12.3,1,Affordable,32,True
+The Girl with All the Gifts,£49.47,Three,In stock,49.47,3,Expensive,27,True
+The Girl Who Played with Fire (Millennium Trilogy #2),£22.14,Two,In stock,22.14,2,Expensive,53,True
+The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),£57.48,One,In stock,57.48,1,Expensive,61,True
+The Exiled,£43.45,Three,In stock,43.45,3,Expensive,10,True
+"The End of Faith: Religion, Terror, and the Future of Reason",£22.13,Four,In stock,22.13,4,Expensive,60,True
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",£13.03,Four,In stock,13.03,4,Affordable,92,True
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",£57.35,Five,In stock,57.35,5,Expensive,131,True
+The Devil Wears Prada (The Devil Wears Prada #1),£44.29,One,In stock,44.29,1,Expensive,48,True
+The Demon-Haunted World: Science as a Candle in the Dark,£52.25,Four,In stock,52.25,4,Expensive,56,True
+The Day the Crayons Came Home (Crayons),£26.33,Five,In stock,26.33,5,Expensive,39,True
+The Da Vinci Code (Robert Langdon #2),£22.96,Two,In stock,22.96,2,Expensive,37,True
+The Cuckoo's Calling (Cormoran Strike #1),£19.21,One,In stock,19.21,1,Affordable,41,True
+The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),£26.78,Four,In stock,26.78,4,Expensive,77,True
+The Complete Poems,£41.32,Five,In stock,41.32,5,Expensive,18,True
+The Catcher in the Rye,£24.55,One,In stock,24.55,1,Expensive,22,True
+The Cat in the Hat (Beginner Books B-1),£16.26,Two,In stock,16.26,2,Affordable,39,True
+The Case for Christ (Cases for Christianity),£47.84,One,In stock,47.84,1,Expensive,44,True
+The Book Thief,£53.49,Two,In stock,53.49,2,Expensive,14,True
+The Book of Basketball: The NBA According to The Sports Guy,£44.84,Five,In stock,44.84,5,Expensive,59,True
+The Blind Side: Evolution of a Game,£53.71,Five,In stock,53.71,5,Expensive,35,True
+The Autobiography of Malcolm X,£23.43,Two,In stock,23.43,2,Expensive,30,True
+"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",£34.32,Three,In stock,34.32,3,Expensive,79,True
+The Art of Fielding,£22.10,One,In stock,22.1,1,Expensive,19,True
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",£25.83,Two,In stock,25.83,2,Expensive,69,True
+Stiff: The Curious Lives of Human Cadavers,£36.74,Three,In stock,36.74,3,Expensive,42,True
+Spilled Milk: Based on a True Story,£49.51,One,In stock,49.51,1,Expensive,35,True
+Something Borrowed (Darcy & Rachel #1),£48.96,Five,In stock,48.96,5,Expensive,38,True
+Something Blue (Darcy & Rachel #2),£54.62,One,In stock,54.62,1,Expensive,34,True
+Soldier (Talon #3),£24.72,Two,In stock,24.72,2,Expensive,18,True
+Shopaholic & Baby (Shopaholic #5),£46.45,Two,In stock,46.45,2,Expensive,33,True
+Seven Days in the Art World,£52.33,Two,In stock,52.33,2,Expensive,27,True
+Seven Brief Lessons on Physics,£30.60,Four,In stock,30.6,4,Expensive,30,True
+Scarlet (The Lunar Chronicles #2),£14.57,Four,In stock,14.57,4,Affordable,33,True
+Sarah's Key,£46.29,One,In stock,46.29,1,Expensive,11,True
+"Saga, Volume 3 (Saga (Collected Editions) #3)",£21.57,Five,In stock,21.57,5,Expensive,45,True
+Running with Scissors,£12.91,Four,In stock,12.91,4,Affordable,21,True
+Rogue Lawyer (Rogue Lawyer #1),£50.11,Three,In stock,50.11,3,Expensive,30,True
+"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",£41.67,Four,In stock,41.67,4,Expensive,87,True
+Rework,£44.88,Two,In stock,44.88,2,Expensive,6,True
+Reservations for Two,£11.10,Three,In stock,11.1,3,Affordable,20,True
+Red: The True Story of Red Riding Hood,£28.54,Three,In stock,28.54,3,Expensive,38,True
+Ready Player One,£19.07,Four,In stock,19.07,4,Affordable,16,True
+Quiet: The Power of Introverts in a World That Can't Stop Talking,£43.55,One,In stock,43.55,1,Expensive,65,True
+Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),£43.63,Three,In stock,43.63,3,Expensive,57,True
+Persepolis: The Story of a Childhood (Persepolis #1-2),£39.13,One,In stock,39.13,1,Expensive,54,True
+Packing for Mars: The Curious Science of Life in the Void,£56.68,Two,In stock,56.68,2,Expensive,57,True
+Outliers: The Story of Success,£14.16,One,In stock,14.16,1,Affordable,30,True
+Original Fake,£31.45,Three,In stock,31.45,3,Expensive,13,True
+Orange Is the New Black,£24.61,Two,In stock,24.61,2,Expensive,23,True
+One for the Money (Stephanie Plum #1),£32.87,Two,In stock,32.87,2,Expensive,37,True
+Notes from a Small Island (Notes From a Small Island #1),£40.17,One,In stock,40.17,1,Expensive,56,True
+Night (The Night Trilogy #1),£13.51,One,In stock,13.51,1,Affordable,28,True
+Neither Here nor There: Travels in Europe,£38.95,Three,In stock,38.95,3,Expensive,41,True
+Naked,£31.69,Three,In stock,31.69,3,Expensive,5,True
+Morning Star (Red Rising #3),£29.40,One,In stock,29.4,1,Expensive,28,True
+"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",£57.83,One,In stock,57.83,1,Expensive,92,True
+Midnight Riot (Peter Grant/ Rivers of London - books #1),£55.46,Two,In stock,55.46,2,Expensive,56,True
+Me Talk Pretty One Day,£57.60,Two,In stock,57.6,2,Expensive,22,True
+Manuscript Found in Accra,£34.98,Two,In stock,34.98,2,Expensive,25,True
+Lust & Wonder,£11.87,Two,In stock,11.87,2,Affordable,13,True
+Lila (Gilead #3),£12.47,Three,In stock,12.47,3,Affordable,16,True
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",£33.26,Two,In stock,33.26,2,Expensive,71,True
+Life Without a Recipe,£59.04,Five,In stock,59.04,5,Expensive,21,True
+Life After Life,£26.13,Two,In stock,26.13,2,Expensive,15,True
+Letter to a Christian Nation,£22.20,One,In stock,22.2,1,Expensive,28,True
+Let's Pretend This Never Happened: A Mostly True Memoir,£45.11,One,In stock,45.11,1,Expensive,55,True
+Legend (Legend #1),£43.69,Four,In stock,43.69,4,Expensive,18,True
+"Lean In: Women, Work, and the Will to Lead",£25.02,One,In stock,25.02,1,Expensive,42,True
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",£55.50,Five,In stock,55.5,5,Expensive,58,True
+Lady Renegades (Rebel Belle #3),£53.04,Five,In stock,53.04,5,Expensive,31,True
+Jurassic Park (Jurassic Park #1),£44.97,One,In stock,44.97,1,Expensive,32,True
+It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,£42.38,One,In stock,42.38,1,Expensive,92,True
+Is Everyone Hanging Out Without Me? (And Other Concerns),£20.11,Three,In stock,20.11,3,Expensive,56,True
+Into the Wild,£56.70,Five,In stock,56.7,5,Expensive,13,True
+Inferno (Robert Langdon #4),£41.00,Five,In stock,41.0,5,Expensive,27,True
+"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",£28.85,Three,In stock,28.85,3,Expensive,80,True
+If I Run (If I Run #1),£49.97,Four,In stock,49.97,4,Expensive,22,True
+I've Got Your Number,£19.69,One,In stock,19.69,1,Affordable,20,True
+I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,£28.88,Two,In stock,28.88,2,Expensive,76,True
+Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,£33.14,Three,In stock,33.14,3,Expensive,89,True
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",£43.70,Two,In stock,43.7,2,Expensive,74,True
+House of Leaves,£54.89,One,In stock,54.89,1,Expensive,15,True
+Horrible Bear!,£37.52,Two,In stock,37.52,2,Expensive,14,True
+Holidays on Ice,£51.07,Two,In stock,51.07,2,Expensive,15,True
+Heir to the Sky,£44.07,Four,In stock,44.07,4,Expensive,15,True
+Green Eggs and Ham (Beginner Books B-16),£10.79,Four,In stock,10.79,4,Affordable,40,True
+"Grayson, Vol 3: Nemesis (Grayson #3)",£42.72,One,In stock,42.72,1,Expensive,36,True
+Gratitude,£26.66,Five,In stock,26.66,5,Expensive,9,True
+Gone Girl,£37.60,Five,In stock,37.6,5,Expensive,9,True
+Golden (Heart of Dread #3),£42.21,Four,In stock,42.21,4,Expensive,26,True
+Girl in the Blue Coat,£46.83,Two,In stock,46.83,2,Expensive,21,True
+"Fruits Basket, Vol. 3 (Fruits Basket #3)",£45.17,Two,In stock,45.17,2,Expensive,40,True
+"Friday Night Lights: A Town, a Team, and a Dream",£51.22,Three,In stock,51.22,3,Expensive,48,True
+Fire Bound (Sea Haven/Sisters of the Heart #5),£21.28,Four,In stock,21.28,4,Expensive,46,True
+Fifty Shades Freed (Fifty Shades #3),£15.36,Five,In stock,15.36,5,Affordable,36,True
+Fellside,£38.62,One,In stock,38.62,1,Expensive,8,True
+Extreme Prey (Lucas Davenport #26),£25.40,Three,In stock,25.4,3,Expensive,34,True
+Eragon (The Inheritance Cycle #1),£43.87,Three,In stock,43.87,3,Expensive,33,True
+Eclipse (Twilight #3),£18.74,One,In stock,18.74,1,Affordable,21,True
+Dune (Dune #1),£54.86,One,In stock,54.86,1,Expensive,14,True
+Dracula,£52.62,Three,In stock,52.62,3,Expensive,7,True
+Do Androids Dream of Electric Sheep? (Blade Runner #1),£51.48,One,In stock,51.48,1,Expensive,54,True
+Disrupted: My Misadventure in the Start-Up Bubble,£15.28,Five,In stock,15.28,5,Affordable,49,True
+Dead Wake: The Last Crossing of the Lusitania,£39.24,Five,In stock,39.24,5,Expensive,45,True
+"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",£17.81,One,In stock,17.81,1,Affordable,69,True
+Darkfever (Fever #1),£56.02,One,In stock,56.02,1,Expensive,20,True
+Dark Places,£23.90,Five,In stock,23.9,5,Expensive,11,True
+Crazy Rich Asians (Crazy Rich Asians #1),£49.13,Five,In stock,49.13,5,Expensive,40,True
+Counting Thyme,£10.62,One,In stock,10.62,1,Affordable,14,True
+Cosmos,£36.17,Two,In stock,36.17,2,Expensive,6,True
+Civilization and Its Discontents,£59.95,Two,In stock,59.95,2,Expensive,32,True
+Cinder (The Lunar Chronicles #1),£26.09,One,In stock,26.09,1,Expensive,32,True
+Catastrophic Happiness: Finding Joy in Childhood's Messy Years,£37.35,Two,In stock,37.35,2,Expensive,62,True
+Career of Evil (Cormoran Strike #3),£24.72,Two,In stock,24.72,2,Expensive,35,True
+Breaking Dawn (Twilight #4),£35.28,Five,In stock,35.28,5,Expensive,27,True
+Brave Enough,£51.32,Five,In stock,51.32,5,Expensive,12,True
+Boy Meets Boy,£21.12,Three,In stock,21.12,3,Expensive,13,True
+"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",£27.35,Two,In stock,27.35,2,Expensive,90,True
+Blink: The Power of Thinking Without Thinking,£21.74,Five,In stock,21.74,5,Expensive,45,True
+Black Flags: The Rise of ISIS,£40.87,One,In stock,40.87,1,Expensive,29,True
+"Black Butler, Vol. 1 (Black Butler #1)",£49.31,One,In stock,49.31,1,Expensive,38,True
+Big Little Lies,£22.11,One,In stock,22.11,1,Expensive,15,True
+Between Shades of Gray,£20.79,Five,In stock,20.79,5,Expensive,22,True
+Best of My Love (Fool's Gold #20),£27.41,Two,In stock,27.41,2,Expensive,33,True
+Beowulf,£38.35,Two,In stock,38.35,2,Expensive,7,True
+Beautiful Creatures (Caster Chronicles #1),£21.55,Five,In stock,21.55,5,Expensive,42,True
+Awkward,£38.02,Two,In stock,38.02,2,Expensive,7,True
+Ash,£22.06,Four,In stock,22.06,4,Expensive,3,True
+Are We There Yet?,£10.66,Three,In stock,10.66,3,Affordable,17,True
+Are We Smart Enough to Know How Smart Animals Are?,£56.58,One,In stock,56.58,1,Expensive,50,True
+Annie on My Mind,£36.83,Five,In stock,36.83,5,Expensive,16,True
+And Then There Were None,£35.01,Two,In stock,35.01,2,Expensive,24,True
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,£30.48,Four,In stock,30.48,4,Expensive,67,True
+A Visit from the Goon Squad,£14.08,Five,In stock,14.08,5,Affordable,27,True
+A Storm of Swords (A Song of Ice and Fire #3),£31.22,Two,In stock,31.22,2,Expensive,45,True
+A Heartbreaking Work of Staggering Genius,£54.29,Five,In stock,54.29,5,Expensive,41,True
+8 Keys to Mental Health Through Exercise,£31.04,One,In stock,31.04,1,Expensive,40,True
+#GIRLBOSS,£50.96,One,In stock,50.96,1,Expensive,9,True
+"The Suffragettes (Little Black Classics, #96)",£11.89,Two,In stock,11.89,2,Affordable,45,True
+The Sense of an Ending,£31.38,Three,In stock,31.38,3,Expensive,22,True
+"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",£54.81,One,In stock,54.81,1,Expensive,64,True
+The Course of Love,£16.78,Three,In stock,16.78,3,Affordable,18,True
+Sugar Rush (Offensive Line #2),£24.42,One,In stock,24.42,1,Expensive,30,True
+"Saga, Volume 2 (Saga (Collected Editions) #2)",£11.75,Three,In stock,11.75,3,Affordable,45,True
+"Run, Spot, Run: The Ethics of Keeping Pets",£20.02,One,In stock,20.02,1,Expensive,42,True
+New Moon (Twilight #2),£12.86,Four,In stock,12.86,4,Affordable,22,True
+Life,£31.58,Five,In stock,31.58,5,Expensive,4,True
+Kindle Paperwhite User's Guide,£34.00,Three,In stock,34.0,3,Expensive,30,True
+H is for Hawk,£57.42,Five,In stock,57.42,5,Expensive,13,True
+Girl Online On Tour (Girl Online #2),£53.47,One,In stock,53.47,1,Expensive,36,True
